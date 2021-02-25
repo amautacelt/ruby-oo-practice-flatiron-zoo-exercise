@@ -5,6 +5,34 @@ require 'pry'
 
 #Test your code here
 
+brooklyn = Zoo.new("Brookly Zoo", "Brooklyn, NY")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 binding.pry
 puts "done"
+
